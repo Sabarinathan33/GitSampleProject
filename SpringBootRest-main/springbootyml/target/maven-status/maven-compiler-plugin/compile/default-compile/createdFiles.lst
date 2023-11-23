@@ -1,0 +1,4 @@
+com\kgisl\springbootyml\repository\BookRepository.class
+com\kgisl\springbootyml\controller\BookController.class
+com\kgisl\springbootyml\model\Book.class
+com\kgisl\springbootyml\SpringbootymlApplication.class
